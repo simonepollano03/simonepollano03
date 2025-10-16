@@ -27,7 +27,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=simonepollano03&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=simonepollano03&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
 </div>
 
 <div align="center">
@@ -49,13 +48,9 @@
 
 ## 📫 Connect With Me
 
-Feel free to reach out if you want to collaborate on projects or just chat about tech!
+Feel free to reach out if you want to collaborate on projects!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pollanosimone02@gmail.com)
 
 ---
-
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=simonepollano03&icon=2&color=6" alt="Profile Views"/>
-</div>
