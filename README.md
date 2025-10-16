@@ -1,11 +1,11 @@
-# Hi there, I'm Simone! 👋
+# Hi there, I'm Simone!
 
-## 💫 About Me
+## About Me
 
 🎓 Computer Science student at the **University of Turin**  
 📍 Based in Turin, Piedmont, Italy
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -39,7 +39,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=simonepollano03&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
 </div>
 
-## 🌱 Currently Learning
+## Currently Learning
 
 - Advanced algorithms and data structures
 - Web development frameworks
