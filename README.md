@@ -26,11 +26,15 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=simonepollano03&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=simonepollano03&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&v=2" 
+    alt="Simone's GitHub Stats" height="170"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simonepollano03&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=simonepollano03&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&v=2" 
+    alt="Top Languages"/>
 </div>
 
 ## 🏆 GitHub Trophies
